@@ -45,7 +45,7 @@ body {
 
 section {
         min-height: 100vh;
-        padding: 1rem
+        padding: 1rem;
 }
 
 section h1 span {
@@ -225,6 +225,7 @@ header .navbar ul li a:hover {
         z-index: 1000;
         display: none;
 }
+
 
 .contact ul {
         padding-top: 36rem;
