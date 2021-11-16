@@ -259,6 +259,9 @@ header .navbar ul li a:hover {
         section {
                 font-size: 40% !important;
         }
+        .custom-contact {
+                margin-left: 40% !important;
+        }
 }
 
 @media(max-width:400px) {
