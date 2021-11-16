@@ -44,6 +44,7 @@ body {
 }
 
 section {
+        margin-left: 3%!important;
         min-height: 100vh;
         padding: 1rem;
 }
@@ -213,7 +214,7 @@ header .navbar ul li a:hover {
         text-shadow: var(--yellow);
 }
 
-.custom-contact{
+.custom-contact {
         size: 5rem;
 }
 
