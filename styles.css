@@ -254,7 +254,10 @@ header .navbar ul li a:hover {
 
 @media(max-width:768px) {
         html {
-                font-size: 50%;
+                font-size: 50% !important;
+        }
+        section {
+                font-size: 40% !important;
         }
 }
 
